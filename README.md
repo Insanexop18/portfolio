@@ -38,26 +38,6 @@ Personal portfolio website for Mann Gupta - Digital Marketer & Web Developer. Th
 - A modern web browser
 - Basic web server (optional, for local development)
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Insanexop18/portfolio.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd portfolio
-```
-
-3. Open `index.html` in your browser or use a local web server:
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js http-server
-npx http-server
-```
 
 4. Visit `http://localhost:8000` in your browser
 
