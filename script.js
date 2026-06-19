@@ -92,33 +92,10 @@ const modalClose = document.getElementById('modalClose');
 
 // Case study data
 const caseStudies = {
-    ecommerce: {
-        title: 'E-Commerce Platform Transformation',
-        image: 'https://via.placeholder.com/900x400',
-        overview: 'Led the complete redesign and development of a multi-vendor e-commerce platform, focusing on user experience, performance optimization, and conversion rate improvement. The project involved rebuilding the frontend with React, implementing a headless architecture, and integrating advanced analytics.',
-        results: [
-            { number: '+300%', label: 'Conversion Rate' },
-            { number: '+$2.5M', label: 'Annual Revenue' },
-            { number: '45%', label: 'Faster Load Time' },
-            { number: '4.8/5', label: 'User Rating' }
-        ],
-        highlights: [
-            'Implemented a mobile-first responsive design that improved mobile conversions by 250%',
-            'Integrated Stripe payment gateway with support for multiple currencies and payment methods',
-            'Built a real-time inventory management system with automated stock alerts',
-            'Developed an AI-powered product recommendation engine that increased average order value by 35%',
-            'Created a comprehensive admin dashboard with advanced analytics and reporting',
-            'Optimized site performance achieving 95+ Google Lighthouse scores'
-        ],
-        testimonial: {
-            text: 'The transformation of our e-commerce platform exceeded all expectations. Not only did we see immediate improvements in conversion rates, but the new system is also incredibly easy to manage. The attention to detail and technical expertise was outstanding.',
-            author: 'Sarah Johnson, CEO of RetailCo'
-        }
-    },
     analytics: {
         title: 'Marketing Analytics Dashboard',
         image: 'https://via.placeholder.com/900x400',
-        overview: 'Designed and developed a comprehensive marketing analytics platform that consolidates data from multiple sources including Google Analytics, Facebook Ads, Google Ads, and email marketing platforms. The dashboard provides real-time insights and automated reporting for marketing teams.',
+        overview: 'Strategized and managed a comprehensive marketing analytics platform that consolidates data from multiple sources including Google Analytics, Facebook Ads, Google Ads, and email marketing platforms. The dashboard provides real-time insights and automated reporting for marketing teams.',
         results: [
             { number: '75%', label: 'Time Saved' },
             { number: '12+', label: 'Data Sources' },
@@ -126,11 +103,11 @@ const caseStudies = {
             { number: '99.9%', label: 'Uptime' }
         ],
         highlights: [
-            'Integrated APIs from 12+ marketing platforms for unified data visualization',
-            'Built custom D3.js visualizations for complex campaign performance metrics',
+            'Consolidated 12+ marketing platform data sources for unified performance tracking',
+            'Created custom data visualizations for complex campaign performance metrics',
             'Implemented automated report generation and email distribution system',
-            'Created predictive analytics models for budget allocation optimization',
-            'Developed real-time alerting system for campaign performance anomalies',
+            'Built predictive analytics models for budget allocation optimization',
+            'Configured real-time alerting system for campaign performance anomalies',
             'Designed role-based access control for team collaboration'
         ],
         testimonial: {
@@ -139,9 +116,9 @@ const caseStudies = {
         }
     },
     saas: {
-        title: 'High-Converting SaaS Landing Page',
+        title: 'High-Converting SaaS Landing Page Campaign',
         image: 'https://via.placeholder.com/900x400',
-        overview: 'Created a conversion-optimized landing page for a B2B SaaS product, implementing advanced A/B testing strategies and conversion rate optimization techniques. The project involved extensive user research, iterative design, and data-driven optimization.',
+        overview: 'Led a conversion-optimized landing page campaign for a B2B SaaS product, implementing advanced A/B testing strategies and conversion rate optimization techniques. The project involved extensive user research, audience segmentation, and data-driven optimization.',
         results: [
             { number: '+425%', label: 'Sign-up Rate' },
             { number: '62%', label: 'Bounce Rate Reduction' },
@@ -149,15 +126,15 @@ const caseStudies = {
             { number: '12%', label: 'Trial-to-Paid Conversion' }
         ],
         highlights: [
-            'Conducted extensive user research and competitor analysis to inform design decisions',
-            'Implemented Google Optimize for continuous A/B testing of headlines, CTAs, and layouts',
-            'Created animated product demonstrations using CSS and JavaScript',
-            'Optimized page speed to achieve sub-2-second load times',
-            'Designed trust-building elements including customer testimonials and security badges',
+            'Conducted extensive user research and competitor analysis to inform campaign strategy',
+            'Ran continuous A/B testing of headlines, CTAs, and layouts using Google Optimize',
+            'Designed compelling ad copy and visual assets for multi-channel campaigns',
+            'Optimized landing page performance for maximum conversion rate',
+            'Created trust-building elements including customer testimonials and social proof',
             'Integrated HubSpot for lead capture and automated nurture sequences'
         ],
         testimonial: {
-            text: 'The new landing page has been a game-changer for our business. The conversion rate improvements have directly translated to significant revenue growth, and the ongoing optimization keeps delivering better results.',
+            text: 'The new landing page campaign has been a game-changer for our business. The conversion rate improvements have directly translated to significant revenue growth, and the ongoing optimization keeps delivering better results.',
             author: 'Emily Rodriguez, VP of Marketing at CloudSoft'
         }
     }

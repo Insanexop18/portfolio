@@ -1,10 +1,10 @@
 # Portfolio Website
 
-A modern, responsive portfolio website showcasing digital marketing and web development skills.
+A modern, responsive portfolio website showcasing digital marketing expertise and strategy.
 
 ## About
 
-Personal portfolio website for Mann Gupta - Digital Marketer & Web Developer. The site features a clean, modern design with interactive elements and smooth animations.
+Personal portfolio website for Mann Gupta - Digital Marketing Strategist & Growth Expert. The site features a clean, modern design with interactive elements and smooth animations.
 
 ## Features
 
@@ -17,9 +17,9 @@ Personal portfolio website for Mann Gupta - Digital Marketer & Web Developer. Th
 ## Sections
 
 - **Hero**: Eye-catching introduction with call-to-action buttons
-- **About**: Detailed professional background and expertise
-- **Skills**: Visual representation of technical and marketing skills with progress bars
-- **Projects**: Portfolio of completed projects with technology tags
+- **About**: Detailed professional background and digital marketing expertise
+- **Skills**: Visual representation of marketing skills with progress bars
+- **Projects**: Portfolio of completed marketing projects with case studies
 - **Certifications**: Professional certifications and credentials
 - **Contact**: Contact information and social media links
 
@@ -38,7 +38,6 @@ Personal portfolio website for Mann Gupta - Digital Marketer & Web Developer. Th
 - A modern web browser
 - Basic web server (optional, for local development)
 
-
 4. Visit `http://localhost:8000` in your browser
 
 ## Project Structure
@@ -50,6 +49,7 @@ portfolio/
 ├── script.js          # JavaScript functionality
 ├── Asset/             # Images and assets
 │   ├── logo.png
+│   ├── Mann Gupta.png
 │   └── meri.jpeg
 └── README.md          # This file
 ```
@@ -63,7 +63,7 @@ The website includes a smooth theme switcher that allows users to toggle between
 Mobile-friendly hamburger menu that adapts to different screen sizes.
 
 ### Skills Visualization
-Animated progress bars showing proficiency levels in various technologies and marketing skills.
+Animated progress bars showing proficiency levels in digital marketing skills including SEO, Google Analytics, PPC Advertising, Email Marketing, Social Media Marketing, and Content Strategy.
 
 ### Project Showcase
 Interactive project cards with links to GitHub repositories and detailed case studies.

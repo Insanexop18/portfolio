@@ -1148,9 +1148,7 @@ section {
     border-left-color: #1877f2;
 }
 
-.cert-card[data-color="#0a0a23"] {
-    border-left-color: #0a0a23;
-}
+
 
 .cert-card:hover {
     transform: translateY(-5px);
@@ -1348,6 +1346,13 @@ section {
     background: linear-gradient(135deg, #833AB4, #FD1D1D, #F77737);
     color: white;
     box-shadow: 0 8px 25px rgba(253, 29, 29, 0.4);
+}
+
+/* Website Brand Color */
+.social-website:hover {
+    background: linear-gradient(135deg, #01c38e, #29e9b8);
+    color: white;
+    box-shadow: 0 8px 25px rgba(1, 195, 142, 0.4);
 }
 
 /* Footer */
